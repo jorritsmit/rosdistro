@@ -2984,6 +2984,7 @@ python-requests:
     pip:
       packages: [requests]
   ubuntu:
+    bionic: [python-requests]
     lucid: [python-requests]
     maverick: [python-requests]
     natty: [python-requests]
@@ -3006,7 +3007,6 @@ python-requests:
     yakkety_python3: [python3-requests]
     zesty: [python-requests]
     zesty_python3: [python3-requests]
-    bionic: [python-requests]
 python-requests-oauthlib:
   debian: [python-requests-oauthlib]
   fedora: [python-requests-oauthlib]
@@ -3475,6 +3475,7 @@ python-skimage:
     pip:
       packages: [scikit-image]
   ubuntu:
+    bionic: [python-skimage]
     lucid:
       pip:
         packages: [scikit-image]
@@ -3498,7 +3499,6 @@ python-skimage:
     vivid: [python-skimage]
     wily: [python-skimage]
     xenial: [python-skimage]
-    bionic: [python-skimage]
 python-skimage-pip:
   osx:
     pip:
@@ -3514,6 +3514,7 @@ python-sklearn:
     pip:
       packages: [scikit-learn]
   ubuntu:
+    bionic: [python-sklearn]
     lucid: []
     maverick: []
     natty: []
@@ -3527,7 +3528,6 @@ python-sklearn:
     vivid: [python-sklearn]
     wily: [python-sklearn]
     xenial: [python-sklearn]
-    bionic: [python-sklearn]
 python-slackclient-pip:
   debian:
     pip:
