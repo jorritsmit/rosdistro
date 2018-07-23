@@ -3006,6 +3006,7 @@ python-requests:
     yakkety_python3: [python3-requests]
     zesty: [python-requests]
     zesty_python3: [python3-requests]
+    bionic: [python-requests]
 python-requests-oauthlib:
   debian: [python-requests-oauthlib]
   fedora: [python-requests-oauthlib]
@@ -3497,6 +3498,7 @@ python-skimage:
     vivid: [python-skimage]
     wily: [python-skimage]
     xenial: [python-skimage]
+    bionic: [python-skimage]
 python-skimage-pip:
   osx:
     pip:
@@ -3525,6 +3527,7 @@ python-sklearn:
     vivid: [python-sklearn]
     wily: [python-sklearn]
     xenial: [python-sklearn]
+    bionic: [python-sklearn]
 python-slackclient-pip:
   debian:
     pip:
@@ -3825,6 +3828,7 @@ python-texttable:
     vivid: [python-texttable]
     wily: [python-texttable]
     xenial: [python-texttable]
+    bionic: [python-texttable]
 python-tftpy:
   debian: [python-tftpy]
   fedora: [python-tftpy]
